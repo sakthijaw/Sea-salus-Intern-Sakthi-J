@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 import Header from './Header';
 import MainContent from './MainContent';
